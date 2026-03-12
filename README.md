@@ -1,5 +1,5 @@
-### Name : vishwa J
-### Reg no : 212223080060
+### Name : M Yuvan Raj
+### Reg no : 212223080062
 # Aim:
 To measure energy using Single Phase Energy Meter
 
